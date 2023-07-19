@@ -7,6 +7,11 @@ export default function App() {
 			<Text>
 				<Text style={{ color: 'white' }}>Hello</Text> world
 			</Text>
+			<Image style={{ width: 300, height: 300 }} source={Icon} />
+			<Image
+				style={{ width: 300, height: 300 }}
+				source={{ uri: 'https://picsum.photos/200/300' }}
+			/>
 		</View>
 	);
 }
