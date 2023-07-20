@@ -18,7 +18,7 @@ export default function App() {
 				style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}
 			>
 				<Text style={{ fontSize: 20, color: 'black', fontWeight: 600 }}>
-					Hello world
+					Hello worldsss
 				</Text>
 			</ImageBackground>
 		</View>
